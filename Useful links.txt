@@ -1,0 +1,9 @@
+Youtube video Link: https://youtu.be/Wdw7BZP4XrA?si=LZU-NlFwbEfvn9Ha | SPOTLESS TECH
+
+Project Link: https://github.com/animesh1012/machineLearning/tree/main/Plant_Disease_Prediction
+
+Dataset Link: https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
+
+Drive Dataset link: https://drive.google.com/file/d/1_5G3Cz0WQtZeTxzsq5lrTUfEnNy78WeY/view
+
+Entire Project code: https://drive.google.com/drive/folders/1wGNFhdjxl7J1rljxicbArto9Z9AJT8WA
